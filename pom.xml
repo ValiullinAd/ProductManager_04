@@ -59,14 +59,14 @@
                             <goal>report</goal>
                         </goals>
                     </execution>
-                    <execution>
-                        <id>check_000000</id>
-                        <phase>verify</phase>
-                        <goals>
-                            <goal>check</goal>
-                        </goals>
+<!--                    <execution>-->
+<!--                        <id>check_000000</id>-->
+<!--                        <phase>verify</phase>-->
+<!--                        <goals>-->
+<!--                            <goal>check</goal>-->
+<!--                        </goals>-->
 
-                    </execution>
+<!--                    </execution>-->
                     <!--<execution>
                         <id>Check_000000</id>
                         <goals>
@@ -92,4 +92,5 @@
         </plugins>
     </build>
 </project>
+
 
